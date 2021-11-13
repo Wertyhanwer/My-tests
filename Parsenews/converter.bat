@@ -1,1 +1,0 @@
-pyuic5 newsform.ui -o newsform.py
